@@ -5,11 +5,11 @@ Climate change is one of the major concerns nowadays and there are various facto
 
 This project requires **R and RStudio** and the following libraries installed:
 
-- [dplyr] (https://www.rdocumentation.org/packages/dplyr/versions/0.7.8)
-- [tidyr] (https://www.rdocumentation.org/packages/tidyr/versions/0.8.3)
-- [ggplot2] (https://ggplot2.tidyverse.org/)
-- [kmeans] (https://www.rdocumentation.org/packages/stats/versions/3.6.1/topics/kmeans)
-- [forecast] (https://www.rdocumentation.org/packages/forecast/versions/8.9/topics/forecast)
+- [dplyr](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8)
+- [tidyr](https://www.rdocumentation.org/packages/tidyr/versions/0.8.3)
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [kmeans](https://www.rdocumentation.org/packages/stats/versions/3.6.1/topics/kmeans)
+- [forecast](https://www.rdocumentation.org/packages/forecast/versions/8.9/topics/forecast)
 
 Make sure you have [R](https://www.r-project.org/) installed.
 
